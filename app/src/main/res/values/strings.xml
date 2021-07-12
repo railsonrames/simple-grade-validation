@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Grade Validation</string>
+    <string name="nota1">Primeira nota</string>
+    <string name="nota2">Segunda nota</string>
+    <string name="faltas">Quantidade de faltas</string>
+    <string name="calcular">Calcular</string>
+</resources>
